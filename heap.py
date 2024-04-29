@@ -110,5 +110,4 @@ for i in range(len(nums)):
     Expected output: 5
     Test passed: True
     ---------------------------------------
-
 """
